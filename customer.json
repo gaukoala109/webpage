@@ -1,0 +1,16 @@
+{
+    "customer": [
+        {
+            "customerName": "Lotte",
+            "channel": "supermarket"
+        },
+        {
+            "customerName": "Vinmart",
+            "channel": "supermarket"
+        },
+        {
+            "customerName": "Song Viet",
+            "channel": "airport"
+        }
+    ]
+}
